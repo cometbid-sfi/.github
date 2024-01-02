@@ -1,4 +1,7 @@
-# The Cometbid Software Foundation Inc. 🇳🇬 🇨🇦 🇺🇸 🇬🇧 🇬🇭 🇿🇦
+
+![THE COMETBID SOFTWARE FOUNDATION TRANSPARENT BACKGROUND-github](https://github.com/cometbid-sfi/.github/assets/20684020/ec9445c2-74ac-4b35-b5af-02c8637b4886)
+
+# 🇳🇬 🇨🇦 🇺🇸 🇬🇧 🇬🇭 🇿🇦
 
 _**Our tagline:**_  
 Have an idea 💡?  
