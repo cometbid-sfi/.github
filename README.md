@@ -1,1 +1,1 @@
-# .github
+# 🌐 The Cometbid Software Foundation Inc. 🇳🇬 🇨🇦 🇺🇸 🇬🇭 🇿🇦 🇰🇪 🇬🇧
