@@ -82,13 +82,40 @@ http://oss-watch.ac.uk/resources/governancemodels
 ### 🫂 Members
 
 
+How to be a Member on github
+
 
 ### 🤝 Contributors
 
+How to be a Contributor on github.
 
 
 
+#### To join our Whatsapp **Community**
 
+Use this link or Scan QR code
+
+https://chat.whatsapp.com/FGoWZNCUnjy1EvbWFNFSoE  
+
+![shared_qr_code-github](https://github.com/cometbid-sfi/.github/assets/20684020/416bd063-f14f-41f4-ab83-997d31367969)
+
+We currently have the following Groups(teams) on Whatsapp:
+
+**Application Security & Testing Team** 
+
+**Data Science & Engineering Team**
+
+**Mobile Application Dev Team** 
+
+**Mobile Application Dev Team** 
+
+**UI/UX Design & Usability Engineering Team** 
+
+**DevOps/DevSecOps Team**
+
+**Cloud Services, Design and Architecture Team**
+
+**Software Engineering Team**
 
 
 
