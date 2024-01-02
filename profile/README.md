@@ -1,5 +1,9 @@
 # The Cometbid Software Foundation Inc. 🇳🇬 🇨🇦 🇺🇸 🇬🇧 🇬🇭 🇿🇦
 
+_**Our tagline:**_  
+Have an idea 💡?  
+Build a team, launch, scale, and grow!
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -11,10 +15,15 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
-
 ## 🐴 About us
-The Cometbid Software Foundation is a decentralized Open Source community of developers, tech experts and business gurus.
+_The Cometbid Software Foundation (CSF for short)_ is a non-profit public organization to provide a platform for open, collaborative Software development projects by supplying Cloud infrastructure, management, monitoring, communication, and Business infrastructure for Startups, Green-field projects and Corporations.
+
+## Background and History
+1. _The Cometbid Software Foundation_ is heavily linked to the cometbid-project idea on github with the author's several years of labouring in isolation on projects.
+2. CSF started with a group of tech experts especially of African descent who over the years have had challenges working in Silos and wishes to see collaboration become a central ingredient for success.
+   
+More later ...  
+
 
 ### 🏹 Aims and Objectives
 
@@ -25,7 +34,7 @@ The Cometbid Software Foundation is a decentralized Open Source community of dev
 5. We will work to ensure high quality of our Design, maintain high-level coding standards, adherence to local and international laws on data usage and distribution, code quality, testability, reusability, maintenance, and documentation.
 6. Members and Contributors will sign an MOU(Memorandum of Understanding), and Copyright agreement on usage of their work as all contributions is voluntary(unpaid).
 7. To provide legal protection to volunteers working on CSF projects, and to prevent the 'Cometbid' brand name from being used by other orgaizations with permission.
-8. To provide expert advice to African startups via Tech events, shows, trainings and Symposiums centeres mostly on how to:
+8. To provide expert advice to African startups via Tech events, shows, trainings and Conferences mostly on how to:
    i.   Structure software devleopment team to achieve maximum efficiency and productivity.  
    ii.  Manage development team(s) and mitigate the risk of losing coding staffs in an ongoing project.  
         Avoid the danger of poor planning, lack of upfront design and  Architecture, and absence of CI/CD pipelines and coding standards. More importantly, to incorporate tests in the Deployment pipeline.  
@@ -55,7 +64,7 @@ _**Committers**_ are people given commit access on a project.
 _**Sponsors**_ are people who provide financial, legal, and professional non-technical contributions to the community as a whole.
 
 
-_**Fiscal Sponsor**_ 
+_**Fiscal Sponsor**_ _CSF_ may serve as fiscal sponsor project owners who doesn't to go through the trouble of setting up a Non-profit. As a nonprofit fiscal sponsor, we accepts donation on their behalf usually in exchange for a percentage of the donation.
 
 
 ## 🥇 Meritocracy  
@@ -65,6 +74,7 @@ Developers are admitted onboard projects based on experience, contributions and 
 http://oss-watch.ac.uk/resources/meritocraticgovernancemodel  
 
 http://oss-watch.ac.uk/resources/governancemodels
+
 
 ### 🫂 Members
 
