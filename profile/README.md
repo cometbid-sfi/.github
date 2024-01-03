@@ -101,21 +101,19 @@ https://chat.whatsapp.com/FGoWZNCUnjy1EvbWFNFSoE
 
 We currently have the following Groups(teams) on Whatsapp:
 
-**Application Security & Testing Team** 
+[**Application Security & Testing Team**](https://chat.whatsapp.com/KyRFyWJ0yI21ZR42UByFtu) 
 
-**Data Science & Engineering Team**
+[**Data Science & Engineering Team**](https://chat.whatsapp.com/GZM3aMuBTdJBoqp5rcqdiI)
 
-**Mobile Application Dev Team** 
+[**Mobile Application Dev Team**](https://chat.whatsapp.com/LGGmxsEF14589EcrLOHXsF) 
 
-**Mobile Application Dev Team** 
+[**UI/UX Design & Usability Engineering Team**](https://chat.whatsapp.com/CPe3QI98Ezf22Dj5tFIZMg)
 
-**UI/UX Design & Usability Engineering Team** 
+[**DevOps/DevSecOps Team**](https://chat.whatsapp.com/KYy2RmocAU9GOsGAgzziLw)
 
-**DevOps/DevSecOps Team**
+[**Cloud Services, Design and Architecture Team**](https://chat.whatsapp.com/H8kMh5ty8qwA6KBmJDnC9N)
 
-**Cloud Services, Design and Architecture Team**
-
-**Software Engineering Team**
+[**Software Engineering Team**](https://chat.whatsapp.com/LmnQDZLtOuVJgefD6Qyyov)
 
 
 
