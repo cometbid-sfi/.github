@@ -112,19 +112,25 @@ https://chat.whatsapp.com/FGoWZNCUnjy1EvbWFNFSoE
 
 We currently have the following Groups(teams) on Whatsapp:
 
-[**Application Security & Testing Team**](https://chat.whatsapp.com/KyRFyWJ0yI21ZR42UByFtu) 
+| Team                                                                                     | Description                                                               |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [**Application Security & Testing Team**](https://chat.whatsapp.com/KyRFyWJ0yI21ZR42UByFtu)    | For members to discuss topics about application-level security and how to properly test applications. |
+| [**Data Science & Engineering Team**](https://chat.whatsapp.com/GZM3aMuBTdJBoqp5rcqdiI) | For members to discuss topics related to data collection, extraction, transformation, loading, and drawing inference and Business value from data. |
+| [**Mobile Application Dev Team**](https://chat.whatsapp.com/LGGmxsEF14589EcrLOHXsF)     | For members to discuss cross-platform, and native mobile application including IoT application development. |
+| [**UI/UX Design & Usability Engineering Team**](https://chat.whatsapp.com/CPe3QI98Ezf22Dj5tFIZMg) | For members to discuss mobile apps and website aesthetics, accessibility and ease of use. |
+| [**DevOps/DevSecOps Team**](https://chat.whatsapp.com/KYy2RmocAU9GOsGAgzziLw) | For members to discuss blending development, security and operations groups into one cohesive and coordinated team in order to build a more secure and robust application. |
+| [**Cloud Services, Design and Architecture Team**](https://chat.whatsapp.com/H8kMh5ty8qwA6KBmJDnC9N) | For members to discuss building, managing, monitoring and administering cloud infrastructure. |
+| [**Software Engineering Team**](https://chat.whatsapp.com/LmnQDZLtOuVJgefD6Qyyov) | For members to discuss designing, building, testing, deploying, maintaining and reacting to changes in application development. |
 
-[**Data Science & Engineering Team**](https://chat.whatsapp.com/GZM3aMuBTdJBoqp5rcqdiI)
 
-[**Mobile Application Dev Team**](https://chat.whatsapp.com/LGGmxsEF14589EcrLOHXsF) 
 
-[**UI/UX Design & Usability Engineering Team**](https://chat.whatsapp.com/CPe3QI98Ezf22Dj5tFIZMg)
 
-[**DevOps/DevSecOps Team**](https://chat.whatsapp.com/KYy2RmocAU9GOsGAgzziLw)
 
-[**Cloud Services, Design and Architecture Team**](https://chat.whatsapp.com/H8kMh5ty8qwA6KBmJDnC9N)
 
-[**Software Engineering Team**](https://chat.whatsapp.com/LmnQDZLtOuVJgefD6Qyyov)
+
+
+
+
 
 
 
