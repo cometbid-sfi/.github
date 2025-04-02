@@ -25,7 +25,7 @@ Build a team, launch, scale, and grow!
 _The Cometbid Software Foundation (CSF for short)_ is a non-profit public organization to provide a platform for open, collaborative Software development projects by supplying Cloud infrastructure, management, monitoring, communication, and Business infrastructure for Startups, Green-field projects and Corporations.
 
 ## 🏫 Background and History
-1. _The Cometbid Software Foundation_ is heavily linked to the cometbid-project idea on github with the author's several years of labouring in isolation on projects.
+1. _The Cometbid Software Foundation_ is heavily linked to the [cometbid-project](https://github.com/cometbid-project)  github account with the author's several years of labouring in isolation on projects.
 2. CSF started with a group of tech experts especially of African descent who over the years have had challenges working in Silos and wishes to see collaboration become a central ingredient for success.   
 More later ...  
 
