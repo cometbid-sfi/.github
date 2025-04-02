@@ -1,7 +1,6 @@
-# 🌐 The Cometbid Technology Foundation Inc. 🇳🇬 🇨🇦 🇺🇸 🇬🇭 🇿🇦 🇰🇪 🇬🇧
+# 🇳🇬 🇨🇦 🇺🇸 🇬🇭 🇿🇦 🇰🇪 🇬🇧
 
 <div align="center">
-  <img src="assets/cometbid-logo.png" alt="Cometbid Technology Foundation Logo" width="300" style="max-width: 450px; max-height: 300px" />
   <h1>The Cometbid Technology Foundation</h1>
   <p>An Open Source Platform for Innovation and Collaboration</p>
 
