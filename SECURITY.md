@@ -92,4 +92,19 @@ security:
       - POST
       - PUT
       - DELETE
+```
+
+**Public Keys**
+
+Our public key for secure communications can be found at:
+https://keys.cometbid.tech/security-team.pub
+
+**Additional Resources**
+* Security Guidelines
+* Security Best Practices
+* Incident Response Plan
+
+### Attribution
+
+This security policy is adapted from the GitHub Security Policy.
 
