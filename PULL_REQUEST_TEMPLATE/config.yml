@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+template_chooser:
+  title_template: "[%{template}] "
+  description_template: |
+    Please use one of our templates to submit your pull request:
+    - Bug Fix: For fixing bugs and issues
+    - Feature: For new features and enhancements
+    - Documentation: For documentation updates
+    - Breaking Change: For changes that break backward compatibility
+    - Performance: For performance improvements
+    - Security: For security-related changes
