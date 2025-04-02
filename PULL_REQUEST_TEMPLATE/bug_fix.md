@@ -30,6 +30,7 @@ describe('Component', () => {
     // Test implementation
   });
 });
+```
 
 ### Checklist
 
