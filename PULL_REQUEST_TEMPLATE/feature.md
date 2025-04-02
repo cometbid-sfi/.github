@@ -1,4 +1,3 @@
-```markdown
 ---
 name: ✨ New Feature
 about: Submit a pull request for a new feature
