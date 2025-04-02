@@ -1,0 +1,121 @@
+# These are supported funding model platforms
+
+# GitHub Sponsors - Organization and individual maintainers
+github: # Up to 4 GitHub Sponsors-enabled usernames
+  - orgname
+  - maintainer1
+  - maintainer2
+  - maintainer3
+
+# Open Collective
+open_collective: organization-name
+
+# Patreon
+patreon: organization-name
+
+# Ko-fi
+ko_fi: organization-name
+
+# Tidelift
+tidelift: npm/@organization-name/package-name
+
+# Buy Me a Coffee
+custom: ['https://buymeacoffee.com/organization-name']
+
+# Liberapay
+liberapay: organization-name
+
+# IssueHunt
+issuehunt: organization-name
+
+# Otechie
+otechie: organization-name
+
+# Community Bridge
+community_bridge: project-name
+
+# Custom URLs
+custom: # Up to 4 custom sponsorship URLs
+  - https://organization-name.com/sponsor
+  - https://organization-name.com/donate
+  - https://paypal.me/organization-name
+  - https://opencollective.com/organization-name/contribute
+
+# Additional funding options can be specified here
+funding:
+  # Monthly sponsorship tiers
+  tiers:
+    - name: "Bronze Sponsor"
+      description: "Basic support for our open source work"
+      amount: 5
+      currency: USD
+      interval: monthly
+    
+    - name: "Silver Sponsor"
+      description: "Medium level support with additional benefits"
+      amount: 25
+      currency: USD
+      interval: monthly
+    
+    - name: "Gold Sponsor"
+      description: "Premium support with priority access"
+      amount: 100
+      currency: USD
+      interval: monthly
+    
+    - name: "Platinum Sponsor"
+      description: "Enterprise level support with custom benefits"
+      amount: 500
+      currency: USD
+      interval: monthly
+
+  # One-time donation options
+  one_time:
+    - name: "One-time donation"
+      description: "Support our project with a one-time donation"
+      amounts: [5, 10, 25, 50, 100]
+      currency: USD
+
+  # Cryptocurrency donations
+  crypto:
+    bitcoin: "YOUR_BITCOIN_ADDRESS"
+    ethereum: "YOUR_ETHEREUM_ADDRESS"
+    
+  # Corporate sponsorship
+  corporate:
+    contact: "sponsors@organization-name.com"
+    benefits:
+      - "Logo on website"
+      - "Priority support"
+      - "Custom integration assistance"
+      - "Monthly consultation calls"
+
+  # Subscription benefits
+  benefits:
+    bronze:
+      - "Name in README.md"
+      - "Discord role"
+      - "Monthly newsletter"
+    
+    silver:
+      - "Small logo on website"
+      - "Priority issue response"
+      - "Quarterly team call"
+    
+    gold:
+      - "Medium logo on website"
+      - "Direct support channel"
+      - "Monthly team call"
+    
+    platinum:
+      - "Large logo on website"
+      - "Custom support SLA"
+      - "Weekly team calls"
+      - "Integration consulting"
+
+  # Additional information
+  info:
+    contact_email: "funding@organization-name.com"
+    support_email: "support@organization-name.com"
+    terms_url: "https://organization-name.com/sponsorship-terms"
+    faq_url: "https://organization-name.com/sponsorship-faq"
