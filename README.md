@@ -17,6 +17,7 @@ This repository contains the default community health files for The Cometbid Tec
 
 ## Repository Structure
 
+```dir
 .github/
 ├── ISSUE_TEMPLATE/
 │ ├── bug_report.md
@@ -39,7 +40,7 @@ This repository contains the default community health files for The Cometbid Tec
 ├── FUNDING.yml
 ├── SECURITY.md
 └── SUPPORT.md
-
+```
 
 ## Default Community Health Files
 
@@ -132,7 +133,7 @@ This repository is licensed under the Apache License 2.0 - see the [LICENSE](LIC
 - Website: https://cometbid.org
 - Email: support@cometbid.org
 - Twitter: [@CometbidTech](https://twitter.com/CometbidTech)
-- LinkedIn: [Cometbid Technology Foundation](https://linkedin.com/company/cometbid-tech)
+- LinkedIn: [The Cometbid Technology Foundation](https://linkedin.com/company/cometbid-tech)
 
 ## Acknowledgments
 
