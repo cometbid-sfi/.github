@@ -1,4 +1,4 @@
-# 🌐 The Cometbid Software Foundation Inc. 🇳🇬 🇨🇦 🇺🇸 🇬🇭 🇿🇦 🇰🇪 🇬🇧
+# 🌐 The Cometbid Technology Foundation Inc. 🇳🇬 🇨🇦 🇺🇸 🇬🇭 🇿🇦 🇰🇪 🇬🇧
 
 <div align="center">
   <img src="assets/cometbid-logo.png" alt="Cometbid Technology Foundation Logo" width="300"/>
