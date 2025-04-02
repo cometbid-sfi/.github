@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Organization Support
+    url: https://organization-name.com/support
+    about: Check our support page for common issues and solutions
+  - name: Security Issues
+    url: https://organization-name.com/security
+    about: Please report security vulnerabilities here
+  - name: Community Forum
+    url: https://community.organization-name.com
+    about: Ask questions and discuss with other community members
