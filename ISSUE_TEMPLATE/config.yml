@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Organization Support
+    url: https://cometbid.org/support
+    about: Check our support page for common issues and solutions
+  - name: Security Issues
+    url: https://cometbid.org/security
+    about: Please report security vulnerabilities here
+  - name: Community Forum
+    url: https://community.cometbid.org
+    about: Ask questions and discuss with other community members
