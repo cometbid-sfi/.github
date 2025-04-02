@@ -1,8 +1,8 @@
 # 🇳🇬 🇨🇦 🇺🇸 🇬🇭 🇿🇦 🇰🇪 🇬🇧
 
 <div align="center">
-  <h1>The Cometbid Technology Foundation</h1>
-  <p>An Open Source Platform for Innovation and Collaboration</p>
+  <h1 style="align:right;">The Cometbid Technology Foundation</h1>  
+  <p style="clear:left;">An Open Source Platform for Innovation and Collaboration</p>
 
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
