@@ -30,3 +30,11 @@ describe('Component', () => {
     // Test implementation
   });
 });
+
+### Checklist
+
+* Bug fix has been tested
+* No new bugs introduced
+* Documentation updated
+* Tests added/updated
+* Regression tests pass
