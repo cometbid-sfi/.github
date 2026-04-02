@@ -9,8 +9,8 @@ The Cometbid Technology Foundation takes the security of our software products a
 **Please do not report security vulnerabilities through public GitHub issues.**
 
 Instead, please report them via email to:
-- Primary: security@cometbid.tech
-- Secondary: security-team@cometbid.tech
+- Primary: security@cometbid.org
+- Secondary: security-team@cometbid.org
 
 Please include the following information:
 
